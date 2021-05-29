@@ -16,3 +16,17 @@ Next, using the Google APIs, the nearest hotel within 5,000 mwters was located. 
 Finally, using the Google maps API, a heat map of all locations was generated, along with a tooltip displaying relevant information for each location. This heat map is displayed below.
 
 ![image_name](Vacation_Search/WeatherPy_vacation_map.png)
+
+## Deliverable Three:
+
+Four cities in Russia are chosen and the using the Google map's API, a **direction layer** is added to show the optimal **driving** path taken to visit all four cities. The image is displayed below:
+
+![image_name](Vacation_Itinerary/WeatherPy_travel_map.png)
+
+Finally, a new figure is created and a **market layer** with relevant information about the travel destinations on the tooptips appears. The image is displayed below.
+
+![image_name](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
+
+# Further Work
+
+We did not explore how to **overlay** both the direction and marking layers on one another. When the two layers were added to the same figure, one of them didn't show up.
