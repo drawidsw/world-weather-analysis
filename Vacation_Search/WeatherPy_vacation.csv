@@ -85,12 +85,10 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 117,Aransas Pass,US,73.44,scattered clouds,27.9095,-97.15,Microtel Inn & Suites by Wyndham Aransas Pass/Corpus Christi
 119,Torbay,CA,55.27,scattered clouds,47.6666,-52.7314,Gallows Cove
 120,Port Elizabeth,ZA,65.1,scattered clouds,-33.918,25.5701,39 On Nile Guest House
-121,Luderitz,,71.08,scattered clouds,-26.6481,15.1594,LÜDERITZ NEST HOTEL
 122,Port Hardy,CA,48.38,scattered clouds,50.6996,-127.4199,Airport Inn
 123,Saint-Philippe,RE,73.22,scattered clouds,-21.3585,55.7679,"Chambres d'hôte ""La Trinité"""
 124,Clyde River,CA,32.23,few clouds,70.4692,-68.5914,Qamaq Hotel
 125,Seddon,AU,48.34,broken clouds,-37.8068,144.8916,Footscray Motor Inn
-126,Oranjemund,,61.12,broken clouds,-28.55,16.4333,The Fisherman's Cove
 127,Ulaangom,MN,53.38,overcast clouds,49.9811,92.0667,Achit Nuur Hotel & Restaurant
 128,Yellowknife,CA,46.29,broken clouds,62.456,-114.3525,The Explorer Hotel
 129,San Cristobal,VE,69.98,broken clouds,7.7669,-72.225,Posada Villaven C.A.
@@ -122,7 +120,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 174,Kandrian,PG,78.62,overcast clouds,-6.2167,149.55,Kandrian Station
 175,Gizo,SB,76.8,moderate rain,-8.103,156.8419,Imagination Island
 176,Belgrade,RS,71.46,clear sky,44.803999999999995,20.4651,Saruna Wellness - Hotel Park Belgrade
-177,Bethanien,,74.16,scattered clouds,-26.502,17.1583,Bethanie Hotel
 178,Trelew,AR,46.35,clear sky,-43.248999999999995,-65.3051,Hotel Touring Club
 180,Airai,TL,58.35,broken clouds,-8.9266,125.4092,Juvinal Martin
 181,Kargasok,RU,48.27,scattered clouds,59.0556,80.8572,Hotel Kargasok
@@ -172,7 +169,6 @@ City_ID,City,Country,Max Temp,Current Description,Lat,Lng,Hotel Name
 247,Newton,US,48.09,light rain,42.336999999999996,-71.2092,Sheraton Boston Needham Hotel
 248,Lincoln,US,55.65,overcast clouds,40.8,-96.667,Courtyard by Marriott Lincoln Downtown/Haymarket
 249,Winton,US,78.51,clear sky,37.3894,-120.6133,Applegate Inn
-250,Henties Bay,,62.85,scattered clouds,-22.116,14.2845,Fishermans Guest House
 253,Chifeng,CN,61.61,broken clouds,42.2683,118.9636,Junyu Tiancheng Hotel
 254,Bundaberg,AU,58.21,overcast clouds,-24.85,152.35,Takalvan Motel
 255,Youghal,IE,63.59,broken clouds,51.95,-7.8506,Quality Hotel and Leisure Centre Youghal
