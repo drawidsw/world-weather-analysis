@@ -23,7 +23,7 @@ Four cities in Russia are chosen and the using the Google map's API, a **directi
 
 ![image_name](Vacation_Itinerary/WeatherPy_travel_map.png)
 
-Finally, a new figure is created and a **market layer** with relevant information about the travel destinations on the tooptips appears. The image is displayed below.
+Finally, a new figure is created and a **marker layer** with relevant information about the travel destinations on the tooptips appears. The image is displayed below.
 
 ![image_name](Vacation_Itinerary/WeatherPy_travel_map_markers.png)
 
